@@ -1,4 +1,4 @@
-###Implementarea jocului 2048 folosind ncurses
+#Implementarea jocului 2048 folosind ncurses
 #Constantinescu Theodor
 
     Jocul incepe cu alegerea dimensiunilor ecranului, unde exista optiunea
